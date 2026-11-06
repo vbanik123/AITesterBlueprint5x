@@ -1,0 +1,5 @@
+# Created at 2026-11-06T10:56:11.996
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Lenevo Dump\E Drive\5x AI Tester Blueprint\AI Tester Blueprint 5X Project\Chapter_02_Prompt_Engineering\RICE_POT\SeleniumFramework\.m2\repository\org\apache\maven\surefire\surefire-booter\3.5.2\surefire-booter-3.5.2.jar'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
