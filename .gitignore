@@ -8,7 +8,9 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
-/SeleniumFramework/target
+
+# Ignore the specific target framework folder
+SeleniumFramework/target
 
 # Environment Variables & Local Config
 .env
