@@ -34,6 +34,7 @@ Do NOT:
 ```
 
 ## Recommended Parameters block (for factual or technical output)
+
 ```
 - Output must be deterministic (same input → same output).
 - Every assertion must be traceable to a provided input.
